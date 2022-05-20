@@ -1,0 +1,6 @@
+HtmlForm.class
+UserForm.class
+META-INF/services/HtmlForm
+HtmlInput.class
+META-INF/services/HtmlInput
+HtmlProcessor.class

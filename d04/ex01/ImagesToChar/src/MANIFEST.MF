@@ -1,0 +1,1 @@
+Main-Class: edu_school21_printer.app.Program
